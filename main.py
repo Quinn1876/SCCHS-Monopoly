@@ -154,12 +154,12 @@ def checkWin():
 
 def getChoiceInt(message, a, b):
 	"""
-	Getting a players input that has to be within a range of two numbres
+	Getting a players input that has to be within a range of two numbers
 	Includes lower and upper limmit
 	Asks the player a given question
 
 	a is the lower limmit
-	b is the lower limmit
+	b is the upper limmit
 	x is the number intputed by the user
 	"""
 
